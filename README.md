@@ -1,6 +1,10 @@
 # Set Top Box IPTV for Android TV
 Is a simple iptv app for play m3u playlist for android tv
 
+![](static/1.png)
+![](static/2.png)
+![](static/3.png)
+
 ### How to use
 Simple clone this repo
 `$ git clone https://github.com/athasamid/stbiptv.git`
