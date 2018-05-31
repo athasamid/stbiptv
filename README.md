@@ -1,6 +1,7 @@
 # Set Top Box IPTV for Android TV
-Is a simple iptv app for play m3u playlist for android tv
+Android TV project for live Streaming. With this app we can fetch channels from file (m3u) and show in list. Select channel to play. We can use IR Remote too to navigate between channels.
 
+#### Screenshots
 ![](static/1.png)
 ![](static/2.png)
 ![](static/3.png)
