@@ -7,7 +7,7 @@ Android TV project for live Streaming. With this app we can fetch channels from 
 ![](static/3.png)
 
 ### How to use
-Simple clone this repo
+Simply clone this repo
 `$ git clone https://github.com/athasamid/stbiptv.git`
 
 add m3u file in `tv/src/main/res/raw/` and run 
