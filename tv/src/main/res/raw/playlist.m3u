@@ -1,0 +1,501 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="NET TV HD" tvg-logo="http://images2.useetv.com/logo_net_big1.png?v=1.0.0.0" group-title="Lokal",NET TV HD
+http://sg.ganteng.stream:8888/live/hadi/26052018/78.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TVRI" tvg-logo="http://images2.useetv.com/logo_tvri_big1.png?v=1.0.0.0" group-title="News",TVRI
+http://sg.ganteng.stream:8888/live/hadi/26052018/36.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Trans TV HD" tvg-logo="http://images2.useetv.com/logo_transtv_big1.png?v=1.0.0.0" group-title="Lokal",Trans TV HD
+http://sg.ganteng.stream:8888/live/hadi/26052018/86.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Trans TV" tvg-logo="http://images2.useetv.com/logo_transtv_big1.png?v=1.0.0.0" group-title="Lokal",Trans TV
+http://sg.ganteng.stream:8888/live/hadi/26052018/34.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Trans 7 HD" tvg-logo="http://images2.useetv.com/logo_trans7_big1.png?v=1.0.0.0" group-title="Lokal",Trans 7 HD
+http://sg.ganteng.stream:8888/live/hadi/26052018/92.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Trans 7" tvg-logo="http://images2.useetv.com/logo_trans7_big1.png?v=1.0.0.0" group-title="Lokal",Trans 7
+http://sg.ganteng.stream:8888/live/hadi/26052018/35.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SCTV" tvg-logo="http://images2.useetv.com/logo_sctv_big1.png?v=1.0.0.0" group-title="Lokal",SCTV
+http://sg.ganteng.stream:8888/live/hadi/26052018/32.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NET TV" tvg-logo="http://images2.useetv.com/logo_net_big1.png?v=1.0.0.0" group-title="Lokal",NET TV
+http://sg.ganteng.stream:8888/live/hadi/26052018/24.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Indosiar" tvg-logo="http://images2.useetv.com/logo_indosiar_big1.png?v=1.0.0.0" group-title="Lokal",Indosiar
+http://sg.ganteng.stream:8888/live/hadi/26052018/33.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Usee Sports Liga Satu Gojek" tvg-logo="http://images2.useetv.com/logo_useesports_big.png?v=1.0.0.0" group-title="Sports",Usee Sports Liga Satu Gojek
+http://sg.ganteng.stream:8888/live/hadi/26052018/348.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Channel Piala Dunia (online h-7 piala dunia)" tvg-logo="http://images2.useetv.com/logo_infoworldcup_big1.png?v=1.0.0.0" group-title="Sports",Channel Piala Dunia (online h-7 piala dunia)
+http://sg.ganteng.stream:8888/live/hadi/26052018/467.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ANTV" tvg-logo="http://images2.useetv.com/logo_antv_big1.png?v=1.0.0.0" group-title="Lokal",ANTV
+http://sg.ganteng.stream:8888/live/hadi/26052018/31.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MNC TV" tvg-logo="https://devanyahya.web.id/mnclogo.png" group-title="Lokal",MNC TV
+http://sg.ganteng.stream:8888/live/hadi/26052018/27.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Global TV" tvg-logo="https://devanyahya.web.id/logo_globaltv_big1.png" group-title="Lokal",Global TV
+http://sg.ganteng.stream:8888/live/hadi/26052018/26.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RCTI" tvg-logo="https://devanyahya.web.id/rctilogo.png" group-title="Lokal",RCTI
+http://sg.ganteng.stream:8888/live/hadi/26052018/25.ts
+#EXTINF:-1 tvg-ID="" tvg-name="T Music" tvg-logo="http://images2.useetv.com/logo_allegro_big1.png?v=1.0.0.0" group-title="Music",T Music
+http://sg.ganteng.stream:8888/live/hadi/26052018/184.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Prambors" tvg-logo="http://images2.useetv.com/logo_pramborstv_big1.png?v=1.0.0.0" group-title="Music",Prambors
+http://sg.ganteng.stream:8888/live/hadi/26052018/183.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Saluran Musik Indonesia" tvg-logo="" group-title="Music",Saluran Musik Indonesia
+http://sg.ganteng.stream:8888/live/hadi/26052018/72.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Klik Music" tvg-logo="" group-title="Music",Klik Music
+http://sg.ganteng.stream:8888/live/hadi/26052018/73.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bioskop Indonesia" tvg-logo="http://images2.useetv.com/logo_bioskopindonesia_big1.png?v=1.0.0.0" group-title="Movie",Bioskop Indonesia
+http://sg.ganteng.stream:8888/live/hadi/26052018/42.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dunia Lain" tvg-logo="" group-title="Lokal",Dunia Lain
+http://sg.ganteng.stream:8888/live/hadi/26052018/40.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Life" tvg-logo="https://pbs.twimg.com/profile_images/585365841572597761/MNzt1_N0_400x400.jpg" group-title="Lokal",Life
+http://sg.ganteng.stream:8888/live/hadi/26052018/140.ts
+#EXTINF:-1 tvg-ID="" tvg-name="U Channel" tvg-logo="http://dens.tv/images/channel-logo/76.jpg" group-title="Lokal",U Channel
+http://sg.ganteng.stream:8888/live/hadi/26052018/151.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Akhyar TV" tvg-logo="" group-title="Lokal",Akhyar TV
+http://sg.ganteng.stream:8888/live/hadi/26052018/364.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV Muhammadiyah" tvg-logo="" group-title="Lokal",TV Muhammadiyah
+http://sg.ganteng.stream:8888/live/hadi/26052018/249.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CNN Indonesia" tvg-logo="http://images2.useetv.com/logo_cnnindonesia_big1.png?v=1.0.0.0" group-title="News",CNN Indonesia
+http://sg.ganteng.stream:8888/live/hadi/26052018/44.ts
+#EXTINF:-1 tvg-ID="" tvg-name="iNews TV" tvg-logo="" group-title="News",iNews TV
+http://sg.ganteng.stream:8888/live/hadi/26052018/206.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Berita Satu" tvg-logo="http://www.beritasatu.tv/images/logo.png" group-title="News",Berita Satu
+http://sg.ganteng.stream:8888/live/hadi/26052018/136.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DW TV Asia" tvg-logo="" group-title="News",DW TV Asia
+http://sg.ganteng.stream:8888/live/hadi/26052018/205.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV ONE" tvg-logo="http://images2.useetv.com/logo_tvone_big1.png?v=1.0.0.0" group-title="News",TV ONE
+http://sg.ganteng.stream:8888/live/hadi/26052018/29.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Kompas TV" tvg-logo="http://images2.useetv.com/logo_kompastv_big1.png?v=1.0.0.0" group-title="News",Kompas TV
+http://sg.ganteng.stream:8888/live/hadi/26052018/30.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Metro TV" tvg-logo="http://images2.useetv.com/logo_metrotv_big1.png?v=1.0.0.0" group-title="News",Metro TV
+http://sg.ganteng.stream:8888/live/hadi/26052018/52.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bloomberg TV Asia" tvg-logo="http://www.ipo-book.com/wp-content/uploads/2011/04/Bloomberg-TV.jpg" group-title="News",Bloomberg TV Asia
+http://sg.ganteng.stream:8888/live/hadi/26052018/137.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Jak TV" tvg-logo="http://images2.useetv.com/logo_jaktv_big1.png?v=1.0.0.0" group-title="Lokal",Jak TV
+http://sg.ganteng.stream:8888/live/hadi/26052018/83.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Rajawali TV" tvg-logo="http://images2.useetv.com/logo_rtv_big1.png?v=1.0.0.0" group-title="Lokal",Rajawali TV
+http://sg.ganteng.stream:8888/live/hadi/26052018/37.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Spacetoon" tvg-logo="http://images2.useetv.com/logo_spacetoonplus_big1.png?v=1.0.0.0" group-title="Kids",Spacetoon
+http://sg.ganteng.stream:8888/live/hadi/26052018/59.ts
+#EXTINF:-1 tvg-ID="" tvg-name="My Kids" tvg-logo="http://dens.tv/images/channel-logo/96.jpg" group-title="Kids",My Kids
+http://sg.ganteng.stream:8888/live/hadi/26052018/16.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Disney XD" tvg-logo="" group-title="Kids",Disney XD
+http://sg.ganteng.stream:8888/live/hadi/26052018/104.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nick Toons" tvg-logo="" group-title="Kids",Nick Toons
+http://sg.ganteng.stream:8888/live/hadi/26052018/335.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nickelodeon" tvg-logo="" group-title="Kids",Nickelodeon
+http://sg.ganteng.stream:8888/live/hadi/26052018/252.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sonic Nicklodeon" tvg-logo="" group-title="Kids",Sonic Nicklodeon
+http://sg.ganteng.stream:8888/live/hadi/26052018/339.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Disney Channel" tvg-logo="" group-title="Kids",Disney Channel
+http://sg.ganteng.stream:8888/live/hadi/26052018/306.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Disney Cinemagic" tvg-logo="" group-title="Kids",Disney Cinemagic
+http://sg.ganteng.stream:8888/live/hadi/26052018/425.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Boomerang" tvg-logo="" group-title="Kids",Boomerang
+http://sg.ganteng.stream:8888/live/hadi/26052018/305.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Toonami" tvg-logo="" group-title="Kids",Toonami
+http://sg.ganteng.stream:8888/live/hadi/26052018/301.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Warner Bros" tvg-logo="" group-title="Movie",Warner Bros
+http://sg.ganteng.stream:8888/live/hadi/26052018/329.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Baby TV" tvg-logo="" group-title="Kids",Baby TV
+http://sg.ganteng.stream:8888/live/hadi/26052018/296.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Junior" tvg-logo="" group-title="Kids",Bein Junior
+http://sg.ganteng.stream:8888/live/hadi/26052018/342.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tiny Pop" tvg-logo="http://185.21.217.32:9099/dove/tinypop/chunks.m3u8?nimblesessionid=7479554&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMy8yMDE4IDg6MDk6MDIgQU0maGFzaF92YWx1ZT0vYlE5NUE0SFk0RTRZU00xbks1djFBPT0mdmFsaWRtaW51dGVzPTI=" group-title="Kids",Tiny Pop
+http://sg.ganteng.stream:8888/live/hadi/26052018/344.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nick Jr 2" tvg-logo="" group-title="Kids",Nick Jr 2
+http://sg.ganteng.stream:8888/live/hadi/26052018/341.ts
+#EXTINF:-1 tvg-ID="" tvg-name="JimJam" tvg-logo="" group-title="Kids",JimJam
+http://sg.ganteng.stream:8888/live/hadi/26052018/382.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Disney Junior" tvg-logo="" group-title="Kids",Disney Junior
+http://sg.ganteng.stream:8888/live/hadi/26052018/213.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cartoon Network" tvg-logo="" group-title="Kids",Cartoon Network
+http://sg.ganteng.stream:8888/live/hadi/26052018/214.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Foodie" tvg-logo="https://images-channel.mivo.com/channel/image/87/img-live-foodie.jpg" group-title="Lokal",Foodie
+http://sg.ganteng.stream:8888/live/hadi/26052018/204.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Antara TV" tvg-logo="http://images2.useetv.com/logo_antara_big1.png?v=1.0.0.0" group-title="Lokal",Antara TV
+http://sg.ganteng.stream:8888/live/hadi/26052018/91.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Elshinta TV" tvg-logo="" group-title="Lokal",Elshinta TV
+http://sg.ganteng.stream:8888/live/hadi/26052018/23.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Makkah TV" tvg-logo="" group-title="Lokal",Makkah TV
+http://sg.ganteng.stream:8888/live/hadi/26052018/297.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Rodja TV" tvg-logo="" group-title="Lokal",Rodja TV
+http://sg.ganteng.stream:8888/live/hadi/26052018/22.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dangdutz" tvg-logo="" group-title="Music",Dangdutz
+http://sg.ganteng.stream:8888/live/hadi/26052018/57.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Madina TV" tvg-logo="" group-title="Lokal",Madina TV
+http://sg.ganteng.stream:8888/live/hadi/26052018/347.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Living Foodz" tvg-logo="" group-title="",Living Foodz
+http://sg.ganteng.stream:8888/live/hadi/26052018/345.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DAAI TV" tvg-logo="http://images2.useetv.com/logo_daaitv_big1.png?v=1.0.0.0" group-title="Lokal",DAAI TV
+http://sg.ganteng.stream:8888/live/hadi/26052018/21.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HI! TV" tvg-logo="http://images2.useetv.com/logo_hiindo_big1.png?v=1.0.0.0" group-title="Lokal",HI! TV
+http://sg.ganteng.stream:8888/live/hadi/26052018/58.ts
+#EXTINF:-1 tvg-ID="" tvg-name="IN TV" tvg-logo="http://images2.useetv.com/logo_intv_big1.png?v=1.0.0.0" group-title="Lokal",IN TV
+http://sg.ganteng.stream:8888/live/hadi/26052018/77.ts
+#EXTINF:-1 tvg-ID="" tvg-name="JTV" tvg-logo="http://webtvonlive.com/wp-content/uploads/JTV-webtvonlive-com.jpg" group-title="Lokal",JTV
+http://sg.ganteng.stream:8888/live/hadi/26052018/135.ts
+#EXTINF:-1 tvg-ID="" tvg-name="J'GO TV" tvg-logo="https://pbs.twimg.com/profile_images/378800000140413879/2363d730cb9aebf952ae08af7f29cf9f_400x400.jpeg" group-title="Movie",J'GO TV
+http://sg.ganteng.stream:8888/live/hadi/26052018/56.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Gold Diamond" tvg-logo="https://lh3.googleusercontent.com/cT7QY53XWgUwH1tZTu5mjY61UuC3ZulZxgk0qi_ph-WEQOhtEts3dYF7-_1TMBKpDg=h900" group-title="Movie",Gold Diamond
+http://sg.ganteng.stream:8888/live/hadi/26052018/69.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Red Diamond" tvg-logo="" group-title="Lokal",Red Diamond
+http://sg.ganteng.stream:8888/live/hadi/26052018/70.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Black Diamond" tvg-logo="" group-title="Lokal",Black Diamond
+http://sg.ganteng.stream:8888/live/hadi/26052018/74.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Avava Diamond" tvg-logo="" group-title="Lokal",Avava Diamond
+http://sg.ganteng.stream:8888/live/hadi/26052018/75.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ABC Avava Bollywood" tvg-logo="" group-title="Movie",ABC Avava Bollywood
+http://sg.ganteng.stream:8888/live/hadi/26052018/203.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Movies HD" tvg-logo="http://whatson.dens.tv/media/img/fox-movies.jpg" group-title="Movie",FOX Movies HD
+http://sg.ganteng.stream:8888/live/hadi/26052018/98.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Action Movies HD" tvg-logo="http://truebusiness.truecorp.co.th/images/logo/Channels/FAMlogotvs.png" group-title="Movie",FOX Action Movies HD
+http://sg.ganteng.stream:8888/live/hadi/26052018/99.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Family Movies HD" tvg-logo="http://whatson.dens.tv/media/img/fox-family-movies.jpg" group-title="Movie",FOX Family Movies HD
+http://sg.ganteng.stream:8888/live/hadi/26052018/100.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Crime" tvg-logo="" group-title="Movie",FOX Crime
+http://sg.ganteng.stream:8888/live/hadi/26052018/460.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Life HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b4/FOXLifeLA.png/revision/latest?cb=20171001074306" group-title="Movie",FOX Life HD
+http://sg.ganteng.stream:8888/live/hadi/26052018/94.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX HD" tvg-logo="http://logok.org/wp-content/uploads/2014/10/FOX-TV-logo.png" group-title="Movie",FOX HD
+http://sg.ganteng.stream:8888/live/hadi/26052018/95.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO HD" tvg-logo="" group-title="Movie",HBO HD
+http://sg.ganteng.stream:8888/live/hadi/26052018/210.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Asia" tvg-logo="" group-title="Movie",HBO Asia
+http://sg.ganteng.stream:8888/live/hadi/26052018/215.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Signature" tvg-logo="" group-title="Movie",HBO Signature
+http://sg.ganteng.stream:8888/live/hadi/26052018/405.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Zone" tvg-logo="" group-title="Movie",HBO Zone
+http://sg.ganteng.stream:8888/live/hadi/26052018/406.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cinemax Action" tvg-logo="" group-title="Movie",Cinemax Action
+http://sg.ganteng.stream:8888/live/hadi/26052018/448.ts
+#EXTINF:-1 tvg-ID="" tvg-name="National Geographic Channel HD" tvg-logo="http://j2-play.tv/cover/live/doc/nationalgeographic.png" group-title="Knowledge",National Geographic Channel HD
+http://sg.ganteng.stream:8888/live/hadi/26052018/96.ts
+#EXTINF:-1 tvg-ID="" tvg-name="National Geographic Wild HD" tvg-logo="http://j2-play.tv/cover/live/doc/natgeowild.png" group-title="Knowledge",National Geographic Wild HD
+http://sg.ganteng.stream:8888/live/hadi/26052018/97.ts
+#EXTINF:-1 tvg-ID="" tvg-name="National Geographic People" tvg-logo="" group-title="Knowledge",National Geographic People
+http://sg.ganteng.stream:8888/live/hadi/26052018/455.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Animal Planet" tvg-logo="" group-title="Knowledge",Animal Planet
+http://sg.ganteng.stream:8888/live/hadi/26052018/358.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery HD" tvg-logo="" group-title="Knowledge",Discovery HD
+http://sg.ganteng.stream:8888/live/hadi/26052018/165.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Science HD" tvg-logo="" group-title="Knowledge",Discovery Science HD
+http://sg.ganteng.stream:8888/live/hadi/26052018/408.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Shed" tvg-logo="" group-title="Knowledge",Discovery Shed
+http://sg.ganteng.stream:8888/live/hadi/26052018/333.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Turbo" tvg-logo="" group-title="Knowledge",Discovery Turbo
+http://sg.ganteng.stream:8888/live/hadi/26052018/462.ts
+#EXTINF:-1 tvg-ID="" tvg-name="History US" tvg-logo="" group-title="Knowledge",History US
+http://sg.ganteng.stream:8888/live/hadi/26052018/300.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Crime Investigation" tvg-logo="" group-title="Knowledge",Crime Investigation
+http://sg.ganteng.stream:8888/live/hadi/26052018/332.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CGTN" tvg-logo="" group-title="Knowledge",CGTN
+http://sg.ganteng.stream:8888/live/hadi/26052018/362.ts
+#EXTINF:-1 tvg-ID="" tvg-name="France 24" tvg-logo="" group-title="News",France 24
+http://sg.ganteng.stream:8888/live/hadi/26052018/363.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Romedy Now" tvg-logo="" group-title="Movie",Romedy Now
+http://sg.ganteng.stream:8888/live/hadi/26052018/340.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Star Movies Select" tvg-logo="" group-title="Movie",Star Movies Select
+http://sg.ganteng.stream:8888/live/hadi/26052018/360.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Star Movies" tvg-logo="" group-title="Movie",Star Movies
+http://sg.ganteng.stream:8888/live/hadi/26052018/359.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fashion TV" tvg-logo="" group-title="Lokal",Fashion TV
+http://sg.ganteng.stream:8888/live/hadi/26052018/280.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Movies Now" tvg-logo="" group-title="Movie",Movies Now
+http://sg.ganteng.stream:8888/live/hadi/26052018/330.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Movies Now 2" tvg-logo="" group-title="Movie",Movies Now 2
+http://sg.ganteng.stream:8888/live/hadi/26052018/331.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sony ONE" tvg-logo="http://images2.useetv.com/logo_sone_big1.png?v=1.0.0.0" group-title="Korea",Sony ONE
+http://sg.ganteng.stream:8888/live/hadi/26052018/19.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Aljazeera EN" tvg-logo="http://dens.tv/images/channel-logo/56.jpg" group-title="News",Aljazeera EN
+http://sg.ganteng.stream:8888/live/hadi/26052018/89.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Aljazeera" tvg-logo="http://dens.tv/images/channel-logo/56.jpg" group-title="News",Aljazeera
+http://sg.ganteng.stream:8888/live/hadi/26052018/88.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sony Sab" tvg-logo="" group-title="Variety",Sony Sab
+http://sg.ganteng.stream:8888/live/hadi/26052018/421.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sony Rox" tvg-logo="" group-title="Music",Sony Rox
+http://sg.ganteng.stream:8888/live/hadi/26052018/418.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sony Mix" tvg-logo="" group-title="Music",Sony Mix
+http://sg.ganteng.stream:8888/live/hadi/26052018/417.ts
+#EXTINF:-1 tvg-ID="" tvg-name="B4U Movies" tvg-logo="" group-title="Movie",B4U Movies
+http://sg.ganteng.stream:8888/live/hadi/26052018/422.ts
+#EXTINF:-1 tvg-ID="" tvg-name="And TV" tvg-logo="" group-title="Variety",And TV
+http://sg.ganteng.stream:8888/live/hadi/26052018/420.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NHK World" tvg-logo="" group-title="Knowledge",NHK World
+http://sg.ganteng.stream:8888/live/hadi/26052018/303.ts
+#EXTINF:-1 tvg-ID="" tvg-name="K Plus" tvg-logo="http://images2.useetv.com/logo_kplus_big1.png?v=1.0.0.0" group-title="Korea",K Plus
+http://sg.ganteng.stream:8888/live/hadi/26052018/18.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Travel XP" tvg-logo="" group-title="Knowledge",Travel XP
+http://sg.ganteng.stream:8888/live/hadi/26052018/386.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Star World" tvg-logo="" group-title="Movie",Star World
+http://sg.ganteng.stream:8888/live/hadi/26052018/381.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Star Gold" tvg-logo="" group-title="Movie",Star Gold
+http://sg.ganteng.stream:8888/live/hadi/26052018/384.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sony Pix" tvg-logo="" group-title="Movie",Sony Pix
+http://sg.ganteng.stream:8888/live/hadi/26052018/380.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sony Leplex" tvg-logo="" group-title="Movie",Sony Leplex
+http://sg.ganteng.stream:8888/live/hadi/26052018/383.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sony BBC Earth" tvg-logo="" group-title="Knowledge",Sony BBC Earth
+http://sg.ganteng.stream:8888/live/hadi/26052018/385.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sony Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Sony_Channel_logo.png" group-title="Movie",Sony Channel
+http://sg.ganteng.stream:8888/live/hadi/26052018/15.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sony Max HD" tvg-logo="" group-title="Movie",Sony Max HD
+http://sg.ganteng.stream:8888/live/hadi/26052018/180.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SBS IN HD" tvg-logo="" group-title="Korea",SBS IN HD
+http://sg.ganteng.stream:8888/live/hadi/26052018/13.ts
+#EXTINF:-1 tvg-ID="" tvg-name="KBS World" tvg-logo="" group-title="Korea",KBS World
+http://sg.ganteng.stream:8888/live/hadi/26052018/133.ts
+#EXTINF:-1 tvg-ID="" tvg-name="K Drama" tvg-logo="" group-title="Korea",K Drama
+http://sg.ganteng.stream:8888/live/hadi/26052018/14.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Da Vinci" tvg-logo="http://images2.useetv.com/logo_davinci_big1.png?v=1.0.0.0" group-title="Knowledge",Da Vinci
+http://sg.ganteng.stream:8888/live/hadi/26052018/17.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VH 1" tvg-logo="" group-title="Music",VH 1
+http://sg.ganteng.stream:8888/live/hadi/26052018/396.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Star Plus Asia" tvg-logo="" group-title="Movie",Star Plus Asia
+http://sg.ganteng.stream:8888/live/hadi/26052018/394.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sony Pictures" tvg-logo="" group-title="Movie",Sony Pictures
+http://sg.ganteng.stream:8888/live/hadi/26052018/393.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Rishtey Asia" tvg-logo="" group-title="Movie",Rishtey Asia
+http://sg.ganteng.stream:8888/live/hadi/26052018/392.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Real Time" tvg-logo="" group-title="Knowledge",Discovery Real Time
+http://sg.ganteng.stream:8888/live/hadi/26052018/397.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Comedy Central" tvg-logo="" group-title="Variety",Comedy Central
+http://sg.ganteng.stream:8888/live/hadi/26052018/395.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Colors TV HD" tvg-logo="" group-title="Movie",Colors TV HD
+http://sg.ganteng.stream:8888/live/hadi/26052018/391.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Zee Bioskop" tvg-logo="http://images2.useetv.com/logo_zbioskop_big1.png?v=1.0.0.0" group-title="Movie",Zee Bioskop
+http://sg.ganteng.stream:8888/live/hadi/26052018/7.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Zee Studio" tvg-logo="" group-title="Movie",Zee Studio
+http://sg.ganteng.stream:8888/live/hadi/26052018/338.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Thrill" tvg-logo="http://epg.serbianforum.org/logo_znaci/Thrill.png" group-title="Movie",Thrill
+http://sg.ganteng.stream:8888/live/hadi/26052018/4.ts
+#EXTINF:-1 tvg-ID="" tvg-name="KIX" tvg-logo="https://pbs.twimg.com/profile_images/573025578837671936/0SP5Blcm_400x400.jpeg" group-title="Movie",KIX
+http://sg.ganteng.stream:8888/live/hadi/26052018/8.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Celestial Movies" tvg-logo="http://singteltv.com.sg/_channels/pic_ch585.jpg" group-title="Movie",Celestial Movies
+http://sg.ganteng.stream:8888/live/hadi/26052018/5.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AXN" tvg-logo="http://epg.serbianforum.org/logo_znaci/AXN.png" group-title="Movie",AXN
+http://sg.ganteng.stream:8888/live/hadi/26052018/9.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Aniplus" tvg-logo="http://images2.useetv.com/logo_aniplus_big1.png" group-title="Kids",Aniplus
+http://sg.ganteng.stream:8888/live/hadi/26052018/2.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Animax" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png" group-title="Kids",Animax
+http://sg.ganteng.stream:8888/live/hadi/26052018/3.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sony YAY!" tvg-logo="" group-title="Kids",Sony YAY!
+http://sg.ganteng.stream:8888/live/hadi/26052018/276.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV9" tvg-logo="" group-title="Malaysia",TV9
+http://sg.ganteng.stream:8888/live/hadi/26052018/444.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV3" tvg-logo="" group-title="Malaysia",TV3
+http://sg.ganteng.stream:8888/live/hadi/26052018/443.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV2" tvg-logo="" group-title="Malaysia",TV2
+http://sg.ganteng.stream:8888/live/hadi/26052018/442.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV1" tvg-logo="" group-title="Malaysia",TV1
+http://sg.ganteng.stream:8888/live/hadi/26052018/441.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NTV7" tvg-logo="" group-title="Malaysia",NTV7
+http://sg.ganteng.stream:8888/live/hadi/26052018/440.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Astro Maya" tvg-logo="" group-title="Malaysia",Astro Maya
+http://sg.ganteng.stream:8888/live/hadi/26052018/434.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Astro Awani" tvg-logo="" group-title="Malaysia",Astro Awani
+http://sg.ganteng.stream:8888/live/hadi/26052018/294.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BBC One HD" tvg-logo="" group-title="News",BBC One HD
+http://sg.ganteng.stream:8888/live/hadi/26052018/353.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BBC Two" tvg-logo="" group-title="News",BBC Two
+http://sg.ganteng.stream:8888/live/hadi/26052018/354.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BBC Three" tvg-logo="" group-title="News",BBC Three
+http://sg.ganteng.stream:8888/live/hadi/26052018/355.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BBC Four" tvg-logo="" group-title="News",BBC Four
+http://sg.ganteng.stream:8888/live/hadi/26052018/356.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Movies Sci Fi" tvg-logo="" group-title="Movie",Sky Movies Sci Fi
+http://sg.ganteng.stream:8888/live/hadi/26052018/274.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Movies Family" tvg-logo="" group-title="Movie",Sky Movies Family
+http://sg.ganteng.stream:8888/live/hadi/26052018/273.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Movies Disney" tvg-logo="" group-title="Movie",Sky Movies Disney
+http://sg.ganteng.stream:8888/live/hadi/26052018/272.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Movies Crime" tvg-logo="" group-title="Movie",Sky Movies Crime
+http://sg.ganteng.stream:8888/live/hadi/26052018/271.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Movies Comedy" tvg-logo="" group-title="Movie",Sky Movies Comedy
+http://sg.ganteng.stream:8888/live/hadi/26052018/270.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Movies Action" tvg-logo="" group-title="Movie",Sky Movies Action
+http://sg.ganteng.stream:8888/live/hadi/26052018/269.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MTV" tvg-logo="" group-title="Music",MTV
+http://sg.ganteng.stream:8888/live/hadi/26052018/281.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MTV Rocks" tvg-logo="" group-title="Music",MTV Rocks
+http://sg.ganteng.stream:8888/live/hadi/26052018/285.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MTV Music" tvg-logo="" group-title="Music",MTV Music
+http://sg.ganteng.stream:8888/live/hadi/26052018/286.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MTV Hits" tvg-logo="" group-title="Music",MTV Hits
+http://sg.ganteng.stream:8888/live/hadi/26052018/287.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MTV Dance" tvg-logo="" group-title="Music",MTV Dance
+http://sg.ganteng.stream:8888/live/hadi/26052018/288.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MTV Classic" tvg-logo="" group-title="Music",MTV Classic
+http://sg.ganteng.stream:8888/live/hadi/26052018/289.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MTV Beats" tvg-logo="" group-title="Music",MTV Beats
+http://sg.ganteng.stream:8888/live/hadi/26052018/290.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MTV Base" tvg-logo="" group-title="Music",MTV Base
+http://sg.ganteng.stream:8888/live/hadi/26052018/291.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Trace Naija" tvg-logo="" group-title="Music",Trace Naija
+http://sg.ganteng.stream:8888/live/hadi/26052018/113.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Trace Urban" tvg-logo="" group-title="Music",Trace Urban
+http://sg.ganteng.stream:8888/live/hadi/26052018/106.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Trace Prime" tvg-logo="" group-title="Music",Trace Prime
+http://sg.ganteng.stream:8888/live/hadi/26052018/107.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Trace Mizki" tvg-logo="" group-title="Music",Trace Mizki
+http://sg.ganteng.stream:8888/live/hadi/26052018/109.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Trace Africa" tvg-logo="" group-title="Music",Trace Africa
+http://sg.ganteng.stream:8888/live/hadi/26052018/108.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Trace Tropical" tvg-logo="" group-title="Music",Trace Tropical
+http://sg.ganteng.stream:8888/live/hadi/26052018/112.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Trace Toca" tvg-logo="" group-title="Music",Trace Toca
+http://sg.ganteng.stream:8888/live/hadi/26052018/111.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TLC HD World" tvg-logo="" group-title="",TLC HD World
+http://sg.ganteng.stream:8888/live/hadi/26052018/352.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TLC English" tvg-logo="" group-title="",TLC English
+http://sg.ganteng.stream:8888/live/hadi/26052018/351.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Neo Sports" tvg-logo="" group-title="Sports",Neo Sports
+http://sg.ganteng.stream:8888/live/hadi/26052018/349.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Neo Prime" tvg-logo="" group-title="Movie",Neo Prime
+http://sg.ganteng.stream:8888/live/hadi/26052018/350.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports 1" tvg-logo="http://j2-play.tv/cover/live/sport/foxsport1.png" group-title="Sports",Fox Sports 1
+http://sg.ganteng.stream:8888/live/hadi/26052018/51.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports 2" tvg-logo="http://j2-play.tv/cover/live/sport/foxsport2.png" group-title="Sports",Fox Sports 2
+http://sg.ganteng.stream:8888/live/hadi/26052018/102.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports 3" tvg-logo="http://j2-play.tv/cover/live/sport/foxsport3.png" group-title="Sports",Fox Sports 3
+http://sg.ganteng.stream:8888/live/hadi/26052018/101.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sony Ten Sports 1" tvg-logo="" group-title="Sports",Sony Ten Sports 1
+http://sg.ganteng.stream:8888/live/hadi/26052018/53.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sony Ten Sports 2" tvg-logo="" group-title="Sports",Sony Ten Sports 2
+http://sg.ganteng.stream:8888/live/hadi/26052018/54.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sony Ten Sports 3" tvg-logo="" group-title="Sports",Sony Ten Sports 3
+http://sg.ganteng.stream:8888/live/hadi/26052018/55.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sony ESPN" tvg-logo="" group-title="Sports",Sony ESPN
+http://sg.ganteng.stream:8888/live/hadi/26052018/162.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 2" tvg-logo="" group-title="Sports",ESPN 2
+http://sg.ganteng.stream:8888/live/hadi/26052018/265.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 1" tvg-logo="" group-title="Sports",ESPN 1
+http://sg.ganteng.stream:8888/live/hadi/26052018/264.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PPTV HD" tvg-logo="" group-title="Sports",PPTV HD
+http://sg.ganteng.stream:8888/live/hadi/26052018/424.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sports 1" tvg-logo="https://www.sky.co.nz/documents/24003/641510/MK_beIN_SPORTS_1HD_NEW_250x180.png/e50fbf1a-9b1d-402c-8e43-7e6bcfb9715c?t=1485889360622" group-title="Sports",BeIN Sports 1
+http://sg.ganteng.stream:8888/live/hadi/26052018/10.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sports 2" tvg-logo="https://www.sky.co.nz/documents/24003/641510/MK_beIN_SPORTS_2_NEW_250x180.png/2ddeca6b-978d-4549-b322-1a22d1f07fc5?t=1485889369163" group-title="Sports",BeIN Sports 2
+http://sg.ganteng.stream:8888/live/hadi/26052018/11.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="Sports",BeIN Sports 3
+http://sg.ganteng.stream:8888/live/hadi/26052018/12.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sports 4" tvg-logo="" group-title="Sports",BeIN Sports 4
+http://sg.ganteng.stream:8888/live/hadi/26052018/217.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sports 5" tvg-logo="" group-title="Sports",BeIN Sports 5
+http://sg.ganteng.stream:8888/live/hadi/26052018/218.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sports 6" tvg-logo="" group-title="Sports",BeIN Sports 6
+http://sg.ganteng.stream:8888/live/hadi/26052018/219.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sports 7" tvg-logo="" group-title="Sports",BeIN Sports 7
+http://sg.ganteng.stream:8888/live/hadi/26052018/220.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sports 8" tvg-logo="" group-title="Sports",BeIN Sports 8
+http://sg.ganteng.stream:8888/live/hadi/26052018/221.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sports 9" tvg-logo="" group-title="Sports",BeIN Sports 9
+http://sg.ganteng.stream:8888/live/hadi/26052018/222.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sports 10" tvg-logo="" group-title="Sports",BeIN Sports 10
+http://sg.ganteng.stream:8888/live/hadi/26052018/253.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sports 11" tvg-logo="" group-title="Sports",BeIN Sports 11
+http://sg.ganteng.stream:8888/live/hadi/26052018/254.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sports 12" tvg-logo="" group-title="Sports",BeIN Sports 12
+http://sg.ganteng.stream:8888/live/hadi/26052018/255.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports 2 De" tvg-logo="" group-title="Sports",Sky Sports 2 De
+http://sg.ganteng.stream:8888/live/hadi/26052018/414.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports 1 De" tvg-logo="" group-title="Sports",Sky Sports 1 De
+http://sg.ganteng.stream:8888/live/hadi/26052018/413.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport F1" tvg-logo="" group-title="Sports",Sky Sport F1
+http://sg.ganteng.stream:8888/live/hadi/26052018/415.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN LaLiga" tvg-logo="" group-title="Sports",BeIN LaLiga
+http://sg.ganteng.stream:8888/live/hadi/26052018/416.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Gourmet" tvg-logo="" group-title="Sports",BeIN Gourmet
+http://sg.ganteng.stream:8888/live/hadi/26052018/419.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Skynet HD" tvg-logo="" group-title="Sports",Skynet HD
+http://sg.ganteng.stream:8888/live/hadi/26052018/404.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTM" tvg-logo="" group-title="Sports",RTM
+http://sg.ganteng.stream:8888/live/hadi/26052018/412.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BT Sport 3" tvg-logo="" group-title="Sports",BT Sport 3
+http://sg.ganteng.stream:8888/live/hadi/26052018/321.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BT Sport 2" tvg-logo="" group-title="Sports",BT Sport 2
+http://sg.ganteng.stream:8888/live/hadi/26052018/320.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BT Sport 1" tvg-logo="" group-title="Sports",BT Sport 1
+http://sg.ganteng.stream:8888/live/hadi/26052018/319.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Euro Sport 1 Germany" tvg-logo="" group-title="Sports",Euro Sport 1 Germany
+http://sg.ganteng.stream:8888/live/hadi/26052018/387.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 3" tvg-logo="" group-title="Sports",Arena Sport 3
+http://sg.ganteng.stream:8888/live/hadi/26052018/309.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 2" tvg-logo="" group-title="Sports",Arena Sport 2
+http://sg.ganteng.stream:8888/live/hadi/26052018/308.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 1" tvg-logo="" group-title="Sports",Arena Sport 1
+http://sg.ganteng.stream:8888/live/hadi/26052018/307.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Ten Sports" tvg-logo="" group-title="Sports",Ten Sports
+http://sg.ganteng.stream:8888/live/hadi/26052018/398.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Setanta Sport" tvg-logo="" group-title="Sports",Setanta Sport
+http://sg.ganteng.stream:8888/live/hadi/26052018/402.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MUTV" tvg-logo="" group-title="Sports",MUTV
+http://sg.ganteng.stream:8888/live/hadi/26052018/400.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BT Sport ESPN" tvg-logo="" group-title="Sports",BT Sport ESPN
+http://sg.ganteng.stream:8888/live/hadi/26052018/399.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport Premiere League" tvg-logo="" group-title="Sports",Sky Sport Premiere League
+http://sg.ganteng.stream:8888/live/hadi/26052018/317.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport Golf" tvg-logo="" group-title="Sports",Sky Sport Golf
+http://sg.ganteng.stream:8888/live/hadi/26052018/318.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport Main Event" tvg-logo="" group-title="Sports",Sky Sport Main Event
+http://sg.ganteng.stream:8888/live/hadi/26052018/316.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport Action" tvg-logo="" group-title="Sports",Sky Sport Action
+http://sg.ganteng.stream:8888/live/hadi/26052018/315.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport Cricket" tvg-logo="" group-title="Sports",Sky Sport Cricket
+http://sg.ganteng.stream:8888/live/hadi/26052018/314.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport News" tvg-logo="" group-title="Sports",Sky Sport News
+http://sg.ganteng.stream:8888/live/hadi/26052018/313.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CCTV 4" tvg-logo="" group-title="Knowledge",CCTV 4
+http://sg.ganteng.stream:8888/live/hadi/26052018/283.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TSN 5" tvg-logo="" group-title="Sports",TSN 5
+http://sg.ganteng.stream:8888/live/hadi/26052018/298.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TSN 4" tvg-logo="" group-title="Sports",TSN 4
+http://sg.ganteng.stream:8888/live/hadi/26052018/263.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TSN 3" tvg-logo="" group-title="Sports",TSN 3
+http://sg.ganteng.stream:8888/live/hadi/26052018/262.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TSN 2" tvg-logo="" group-title="Sports",TSN 2
+http://sg.ganteng.stream:8888/live/hadi/26052018/261.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TSN 1" tvg-logo="" group-title="Sports",TSN 1
+http://sg.ganteng.stream:8888/live/hadi/26052018/260.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Bundes Liga 1" tvg-logo="" group-title="Sports",Sky Bundes Liga 1
+http://sg.ganteng.stream:8888/live/hadi/26052018/324.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Bundes Liga 2" tvg-logo="" group-title="Sports",Sky Bundes Liga 2
+http://sg.ganteng.stream:8888/live/hadi/26052018/325.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport 1 It" tvg-logo="" group-title="Sports",Sky Sport 1 It
+http://sg.ganteng.stream:8888/live/hadi/26052018/388.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport 2 It" tvg-logo="" group-title="Sports",Sky Sport 2 It
+http://sg.ganteng.stream:8888/live/hadi/26052018/389.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport 3 It" tvg-logo="" group-title="Sports",Sky Sport 3 It
+http://sg.ganteng.stream:8888/live/hadi/26052018/390.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Super Sport 1" tvg-logo="" group-title="Sports",Super Sport 1
+http://sg.ganteng.stream:8888/live/hadi/26052018/256.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Super Sport 2" tvg-logo="" group-title="Sports",Super Sport 2
+http://sg.ganteng.stream:8888/live/hadi/26052018/257.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Super Sport 3" tvg-logo="" group-title="Sports",Super Sport 3
+http://sg.ganteng.stream:8888/live/hadi/26052018/258.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Super Sport 4" tvg-logo="" group-title="Sports",Super Sport 4
+http://sg.ganteng.stream:8888/live/hadi/26052018/259.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Super Sport 5" tvg-logo="" group-title="Sports",Super Sport 5
+http://sg.ganteng.stream:8888/live/hadi/26052018/429.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Super Sport 6" tvg-logo="" group-title="Sports",Super Sport 6
+http://sg.ganteng.stream:8888/live/hadi/26052018/430.ts
+#EXTINF:-1 tvg-ID="" tvg-name="WWE Network" tvg-logo="" group-title="Sports",WWE Network
+http://sg.ganteng.stream:8888/live/hadi/26052018/299.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Real Madrid TV" tvg-logo="" group-title="Sports",Real Madrid TV
+http://sg.ganteng.stream:8888/live/hadi/26052018/244.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NBA TV" tvg-logo="" group-title="Sports",NBA TV
+http://sg.ganteng.stream:8888/live/hadi/26052018/243.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Chelsea TV" tvg-logo="" group-title="Sports",Chelsea TV
+http://sg.ganteng.stream:8888/live/hadi/26052018/242.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Ten Golf HD" tvg-logo="" group-title="Sports",Ten Golf HD
+http://sg.ganteng.stream:8888/live/hadi/26052018/224.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sony Six HD" tvg-logo="" group-title="Sports",Sony Six HD
+http://sg.ganteng.stream:8888/live/hadi/26052018/225.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A Quiet Place (2018)" tvg-logo="" group-title="General Movies",A Quiet Place (2018)
+http://sg.ganteng.stream:8888/movie/hadi/26052018/464.MKV
+#EXTINF:-1 tvg-ID="" tvg-name="Ferdinand (2017)" tvg-logo="" group-title="General Movies",Ferdinand (2017)
+http://sg.ganteng.stream:8888/movie/hadi/26052018/452.MKV
+#EXTINF:-1 tvg-ID="" tvg-name="Coco (2017)" tvg-logo="" group-title="General Movies",Coco (2017)
+http://sg.ganteng.stream:8888/movie/hadi/26052018/451.MKV
+#EXTINF:-1 tvg-ID="" tvg-name="Beauty and the Beast (2017)" tvg-logo="" group-title="General Movies",Beauty and the Beast (2017)
+http://sg.ganteng.stream:8888/movie/hadi/26052018/450.MKV
+#EXTINF:-1 tvg-ID="" tvg-name="Pacific Rim 2 : Uprising 2018" tvg-logo="" group-title="General Movies",Pacific Rim 2 : Uprising 2018
+http://sg.ganteng.stream:8888/movie/hadi/26052018/411.MKV
+#EXTINF:-1 tvg-ID="" tvg-name="Black Panther" tvg-logo="" group-title="General Movies",Black Panther
+http://sg.ganteng.stream:8888/movie/hadi/26052018/312.MKV
+#EXTINF:-1 tvg-ID="" tvg-name="Thor: Ragnarok" tvg-logo="" group-title="General Movies",Thor: Ragnarok
+http://sg.ganteng.stream:8888/movie/hadi/26052018/310.MKV
