@@ -37,7 +37,7 @@
         <activity android:name=".DetailsActivity" />
         <activity android:name=".PlaybackActivity" />
         <activity android:name=".BrowseErrorActivity" />
-        <activity android:name=".VideoPlayerActivity" android:theme="@style/AppTheme.noActionBar"/>
+        <activity android:name=".VideoPlayerActivity" android:theme="@style/Theme.Leanback"/>
     </application>
 
 </manifest>

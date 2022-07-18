@@ -1,50 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
-    <FrameLayout
-        android:id="@+id/frameLayout"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintEnd_toEndOf="parent">
-        <SurfaceView
-            android:id="@+id/videoView"
+        android:layout_height="match_parent">
+
+        <org.videolan.libvlc.util.VLCVideoLayout
+            android:id="@+id/vlc_player"
             android:layout_width="match_parent"
-            android:layout_height="match_parent" />
-    </FrameLayout>
-    <LinearLayout
-        android:id="@+id/layoutInfo"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:background="@drawable/bg_info"
-        android:padding="10dp"
-        android:gravity="center_horizontal"
-        android:orientation="vertical"
-        android:visibility="gone"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        android:layout_marginTop="10dp"
-        android:layout_marginStart="10dp">
-        <TextView
-            android:id="@+id/nomor"
-            android:textSize="30sp"
-            android:textStyle="bold"
-            android:text="16"
-            android:textColor="@color/colorPrimary"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content" />
-        <TextView
-            android:id="@+id/info"
+            android:layout_height="match_parent"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <LinearLayout
+            android:id="@+id/layoutInfo"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textSize="20sp"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/bg_info"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:padding="10dp"
             android:visibility="gone"
-            android:textColor="@color/colorPrimary"
-            android:text="NET HD"/>
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <TextView
+                android:id="@+id/nomor"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="16"
+                android:textColor="@color/colorPrimary"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/info"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="NET HD"
+                android:textColor="@color/colorPrimary"
+                android:textSize="20sp"
+                android:visibility="gone" />
+        </LinearLayout>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <LinearLayout
+        android:id="@+id/layoutListChannel"
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        android:background="#4D000000"
+        android:padding="10dp"
+        android:clipToPadding="true"
+        app:layout_behavior="@string/bottom_sheet_behavior"
+        >
+
+        <FrameLayout
+            android:id="@+id/main_browse_fragment"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:context=".VideoPlayerActivity"
+            tools:deviceIds="tv"
+            tools:ignore="MergeRootFrame" />
     </LinearLayout>
-</android.support.constraint.ConstraintLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

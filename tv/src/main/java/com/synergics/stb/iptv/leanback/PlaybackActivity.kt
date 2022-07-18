@@ -11,25 +11,22 @@
  * or implied. See the License for the specific language governing permissions and limitations under
  * the License.
  */
+package com.synergics.stb.iptv.leanback
 
-package com.synergics.stb.iptv.leanback;
-
-import android.os.Bundle;
-import android.support.v4.app.FragmentActivity;
+import android.os.Bundle
+import androidx.fragment.app.FragmentActivity
 
 /**
- * Loads {@link PlaybackVideoFragment}.
+ * Loads [PlaybackVideoFragment].
  */
-public class PlaybackActivity extends FragmentActivity {
-
-    @Override
-    public void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
+class PlaybackActivity : FragmentActivity() {
+    public override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
         if (savedInstanceState == null) {
-            getSupportFragmentManager()
-                    .beginTransaction()
-                    .replace(android.R.id.content, new PlaybackVideoFragment())
-                    .commit();
+            supportFragmentManager
+                .beginTransaction()
+                .replace(R.id.content, PlaybackVideoFragment())
+                .commit()
         }
     }
 }

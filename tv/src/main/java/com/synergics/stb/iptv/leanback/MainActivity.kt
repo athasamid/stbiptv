@@ -11,23 +11,23 @@
  * or implied. See the License for the specific language governing permissions and limitations under
  * the License.
  */
+package com.synergics.stb.iptv.leanback
 
-package com.synergics.stb.iptv.leanback;
+import android.app.Activity
+import android.os.Bundle
+import androidx.fragment.app.FragmentActivity
 
-import android.support.v17.leanback.widget.AbstractDetailsDescriptionPresenter;
-
-import com.synergics.stb.iptv.leanback.models.Movie;
-
-public class DetailsDescriptionPresenter extends AbstractDetailsDescriptionPresenter {
-
-    @Override
-    protected void onBindDescription(ViewHolder viewHolder, Object item) {
-        Movie movie = (Movie) item;
-
-        if (movie != null) {
-            viewHolder.getTitle().setText(movie.getTitle());
-            viewHolder.getSubtitle().setText(movie.getStudio());
-            viewHolder.getBody().setText(movie.getDescription());
+/*
+ * MainActivity class that loads {@link MainFragment}.
+ */
+class MainActivity : FragmentActivity() {
+    public override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_main)
+        if (savedInstanceState == null) {
+            supportFragmentManager.beginTransaction()
+                .replace(R.id.main_browse_fragment, MainFragment())
+                .commitNow()
         }
     }
 }
